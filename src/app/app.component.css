@@ -1,0 +1,130 @@
+
+.btn:hover {
+    color: #ff4c3b;
+}
+
+
+.btn1:hover
+{
+    background-color:white;
+    border-color:#ff4c3b ; 
+    color:#ff4c3b  ;
+    
+}
+
+.btn1{
+    background-color:#ff4c3b ;;
+    color:white;
+    font-size: large;
+    border-color: #ff4c3b ;;
+
+}
+
+.icon1{
+    padding: 0.9cm;
+   color: black;
+}
+
+.bi:hover{
+    
+   color:#ff4c3b ;
+}
+
+.und:hover{
+    color:#ff4c3b ;;
+  text-underline-position:above;
+}
+
+.d-inline-block button:hover  .ngbDropdownMenu  {
+    color:#ff4c3b ;;
+    
+}
+
+.fa {
+    color:#B2B3B6;;
+}
+
+.fa:hover {
+    color:#ff4c3b ;;
+}
+
+#chat {
+    color: #ff4c3b;
+    position: fixed;
+    width: 1.5cm;
+    height: 1.5cm;
+    margin-left: 38cm;
+    margin-top: 10cm;
+}
+
+#setting{
+    color: black;
+    position: fixed;
+    width: 3cm;
+    height: 0.6cm;
+    margin-left: 38cm;
+    margin-top: 2.2cm;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 1cm;
+    border-color: white;
+}
+
+#setting:hover{
+    
+    color: #ff4c3b;
+}
+
+
+.form-check{
+    color: black;
+    position: fixed;
+    width: 2cm;
+    height: 0.6cm;
+    margin-left: 38cm;
+    margin-top: 3cm;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 1cm;
+}
+
+.form-check:hover{
+    color: #ff4c3b;
+   
+}
+ 
+
+.dark{
+    color: black;
+    position: fixed;
+    width: 2cm;
+    height: 0.6cm;
+    margin-top: 4.5cm;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 1cm;
+    border-color: white;
+}
+
+.test1{
+    background-color: rgb(75, 72, 72);
+
+}
+
+.test2{
+    background-color: salmon;
+}
+
+/* #sidesetting{
+    color: black;
+    position: fixed;
+    width: 3cm;
+    height: 0.6cm;
+    margin-left: 6cm;
+    margin-top: 7cm;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 1cm;
+} */
+
+

@@ -1,0 +1,29 @@
+.btn1:hover{
+    background-color:white;
+    border-color:#ff4c3b ; 
+    color:#ff4c3b  ;
+    
+}
+
+.btn1{
+    background-color:#ff4c3b ;;
+    color:white;
+    font-size: large;
+    border-color: #ff4c3b ;;
+
+}
+
+.icon1{
+    padding: 0.9cm;
+   color: black;
+}
+
+.bi:hover{
+    
+   color:#ff4c3b ;
+}
+
+.und:hover{
+    color:#ff4c3b ;;
+  text-underline-position:above;
+}

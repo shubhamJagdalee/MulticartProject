@@ -1,0 +1,36 @@
+.navbar{
+    background-color:#f5f6f3;
+  /* padding: 10px;  */
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  /* min-height: 5px !important;*/
+  width: 100% !important;
+  height: 60px !important;
+  }
+  
+  
+  
+  .card{
+    background-color: #f5f6f3;
+    height:320px;
+    width: 950px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-right: 20px;
+    
+  }
+  .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    color: black;
+    }
+  
+    .btn-solid {
+      background-color: #ff4c3b;
+      color: whitesmoke;
+     }
+  
+     
