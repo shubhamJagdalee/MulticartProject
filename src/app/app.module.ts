@@ -18,6 +18,7 @@ import { GymComponent } from './subscribe/gym/gym.component';
 import { ShoesComponent } from './subscribe/shoes/shoes.component';
 import { FrenchComponent } from './subscribe/french/french.component';
 import {   HttpClientModule } from '@angular/common/http';
+import { DemoComponent } from './demo/demo.component';
 
 
 @NgModule({
@@ -31,7 +32,8 @@ import {   HttpClientModule } from '@angular/common/http';
     WatchComponent,
     GymComponent,
     ShoesComponent,
-    FrenchComponent
+    FrenchComponent,
+    DemoComponent
   ],
   imports: [
     BrowserModule,
